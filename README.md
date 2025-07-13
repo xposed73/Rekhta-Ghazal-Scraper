@@ -132,3 +132,12 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Disclaimer
 
 This tool is for educational and personal use only. Please respect Rekhta.org's terms of service and use responsibly. The application only extracts publicly available content and does not bypass any access restrictions.
+
+
+## 🙏 Support My Work
+
+If you find this project helpful, consider supporting it by donating via UPI.
+
+![Donate via UPI](https://raw.githubusercontent.com/xposed73/YTDL-python/main/upi-donation.png)
+
+Thank you for your support! ❤️
